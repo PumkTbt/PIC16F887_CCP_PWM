@@ -5,7 +5,7 @@ Nhấn SW0: LCD hiển thị: line 0: họ và tên sinh viên (chữ có dấu)
 Nhấn SW1: Xuất xung PWM có f = 8KHz, D = 60% và LCD hiển thị:
 line 0: MODUL CCP; line 1: PWM-f=8KHz-D=60%
 
-Phân tích:
+Phân tích
 Để tạo xung PWM khi có: 𝑓𝑃𝑊𝑀 = 8𝐾𝐻𝑧 𝐷 = 60% . Tại chân RC1(CCP2), ta tiến hành:
 Chọn Pre = 1
 𝑇𝑃𝑊𝑀 = 1
